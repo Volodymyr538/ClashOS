@@ -17,6 +17,7 @@ ClashOS — минимальная терминальная ОС для комп
 
 ## Как поставить в Minecraft
 
+<<<<<<< codex/create-clashos-for-cc-tweaked-7ejldg
 
 ## Быстрый старт через `wget run`
 
@@ -37,6 +38,8 @@ wget run https://raw.githubusercontent.com/<user>/<repo>/main/install.lua https:
 - сохраняет `clashos/source.txt` с `BASE_URL`,
 - после `reboot` автоматически скачивает `installer.lua` и запускает установку.
 
+=======
+>>>>>>> main
 1. Поставь мод **CC: Tweaked**.
 2. Создай компьютер и открой терминал.
 3. Скопируй файлы ClashOS в корень компьютера (вручную или через pastebin/http).
